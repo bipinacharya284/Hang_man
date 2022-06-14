@@ -18,7 +18,8 @@ int main()
 	"KRISHNA",
 	"BIPIN",
 	"SUDIP",
-	"RAJINA"
+	"RAJINA",
+	"COLLEGE"
 	};
 	int i=0, hangScore=0;
     int highScore=0, currentScore=0;
