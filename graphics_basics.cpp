@@ -90,8 +90,10 @@ int main()
         draw_lleg();
         
     }
-
    
     getch();
+    clearviewport();
+    outtextxy(getmaxx()/2-200, getmaxy()/2-50, "Thank you for being here!");
+    delay(1000);
     return 0;
 }
