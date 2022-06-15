@@ -9,7 +9,7 @@ int main(){
     }
     else{
         cout<<"File created successfully";    
-        FileName<<"This is a blog posted on Great Learning ";
+        FileName<<"Writing is too easy!! ";
         FileName.close();           
     }
     return 0;
