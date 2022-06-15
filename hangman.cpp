@@ -8,6 +8,7 @@ int main()
 {
 	
 	//Initializing the variables
+	int i;
 	
 	char wordSet[10][10]=
 	{
