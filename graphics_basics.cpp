@@ -9,7 +9,7 @@
     line(20,20,getmaxx()-20,20);
     line(getmaxx()/2,20,getmaxx()/2,getmaxy()/6);
     }
-
+    
     // Drawing head of the man
     void draw_head()
     {
