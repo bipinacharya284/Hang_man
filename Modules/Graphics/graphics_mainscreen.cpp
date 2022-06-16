@@ -31,7 +31,7 @@ void setting_main_menu_items()
     rectangle(15, 15, getmaxx()-15, getmaxy()-15);
 
     settextstyle(8,0,5);
-    outtextxy(getmaxx()/2-110, 20,"HANGMAN");
+    outtextxy(getmaxx()/2-100, 20,"HANGMAN");
     
     settextstyle(8,0,3);
 
