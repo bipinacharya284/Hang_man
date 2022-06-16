@@ -9,8 +9,10 @@ int main(){
     }
     else{
         cout<<"File created successfully";    
-        FileName<<"Writing is too easy!! ";
+        FileName<<"this code is done by rajina ";
         FileName.close();           
     }
     return 0;
+
+
 }
