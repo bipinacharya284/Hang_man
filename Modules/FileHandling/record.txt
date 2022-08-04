@@ -10,4 +10,3 @@ Buffalo
 Buffer
 Sudip
 Bipin
-Krishna
