@@ -7,18 +7,17 @@ void select_Menu_Start()
     
     outtextxy(getmaxx()/10, getmaxy()/2-80,"START");
 }
+
 void select_Menu_Contribute()
 {
-
-    
     outtextxy(getmaxx()/10, getmaxy()/2,"CONTRIBUTE"); 
 }
-void select_Menu_About()
-{
 
-    
+void select_Menu_About()
+{    
     outtextxy(getmaxx()/10, getmaxy()/2+80,"ABOUT");
 }
+
 void select_Menu_Exit()
 {    
     outtextxy(getmaxx()/10, getmaxy()/2+160,"EXIT");
