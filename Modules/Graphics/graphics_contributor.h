@@ -22,7 +22,7 @@ void contributor()
     outtextxy(getmaxx()/2-200, 350," - RAJINA CHAUDARI");
     delay(200);
     settextstyle(3,0,1);
-    outtextxy(getmaxx()/2-200, getmaxy()-50,"copyright (c) 2022 by Bipin Acharya");
+    outtextxy(getmaxx()/2-200, getmaxy()-50,"copyright (c) 2022 by CEV0.1");
 
     getch();
 }
